@@ -18,8 +18,19 @@
         ]
     },
     {
-        "id": "1",
-        "title": "demo title",
-        "description": ["demo description", "demo description"]
+        "id": "3",
+        "title": "Components in Nextjs",
+        "description": [
+            "Components in nextjs work in the similar manner to ReactJS.",
+            "The only gotcha is that we cant save components in pages folder. If we save components in pages folder then they will be treated as pages."
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Styles in NextJS",
+        "description": [
+            "Components in nextjs work in the similar manner to ReactJS.",
+            "The only gotcha is that we cant save components in pages folder. If we save components in pages folder then they will be treated as pages."
+        ]
     }
 ]
